@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "192449405467",
+    "firebase_url": "https://exdee-871be.firebaseio.com",
+    "project_id": "exdee-871be",
+    "storage_bucket": "exdee-871be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192449405467:android:75df18e61de01c2f0ecebe",
+        "android_client_info": {
+          "package_name": "com.example.Exdee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192449405467-7lv48hvsmoe8pr9nj6lah2b03pala878.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBXOCEhkkmrInXNDrwfGrxY_cKmUsQnxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192449405467-7lv48hvsmoe8pr9nj6lah2b03pala878.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
